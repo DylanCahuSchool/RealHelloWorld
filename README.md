@@ -1,5 +1,5 @@
 
-![alt text](hello world.gif)
+[alt text](hello world.gif)
 
 # Random Letter Hello World
 
