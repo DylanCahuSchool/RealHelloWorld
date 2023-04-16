@@ -1,3 +1,6 @@
+
+![alt text](hello world.gif)
+
 # Random Letter Hello World
 
 This C# program generates a variation of the "Hello World" phrase by replacing the letters with randomly chosen letters from the alphabet.
