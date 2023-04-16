@@ -1,8 +1,4 @@
-﻿
-//main 
-using System;
-
-namespace TheRealHelloWorld
+﻿namespace TheRealHelloWorld
 {
     class Program
     {
