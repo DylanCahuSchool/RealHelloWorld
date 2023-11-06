@@ -24,6 +24,4 @@ for ($i = 0; $i < 11; $i++) {
     }
 }
 
-echo implode($display) . "\n";
-
 ?>
