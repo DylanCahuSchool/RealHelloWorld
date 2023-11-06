@@ -3,23 +3,16 @@
 
 # Random Letter Hello World
 
-This C# program generates a variation of the "Hello World" phrase by replacing the letters with randomly chosen letters from the alphabet.
+This PHP program generates a variation of the "Hello World" phrase by replacing the letters with randomly chosen letters from the alphabet.
 
 ## Requirements
 
-- .NET Framework 4.5.2 or later
+PHP 8.2 or higher version
 
 ## Installation
 
 1. Clone the git repository or download the source code
-2. Open the project in an IDE that supports the C# language, such as Visual Studio
-3. Build the project
-
-## Usage
-
-1. Run the program
-2. A "Hello World" message with random letters will be generated and displayed on the screen
-3. Press any key to end the program
+2. Open the project and run by using the cmd command : "php ./index.php"
 
 ## How it works
 
