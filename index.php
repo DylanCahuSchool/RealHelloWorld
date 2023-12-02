@@ -1,6 +1,6 @@
 <?php
 use function usleep;
-
+ helloWorld();
 function helloWorld() {
    
     $helloWorld = str_split("hello world");
@@ -26,9 +26,8 @@ function helloWorld() {
             }
         }
     }
-    sleep(2);
+    sleep(1);
     helloWorld();    
 }
-
 
 ?>
